@@ -53,5 +53,6 @@ playButton.disabled = false
 chances = 5
 chanceArea.textContent = `You have ${chances}chances`
 resultArea.textContent ="RESULT"
+arrays =[]
 }
 
